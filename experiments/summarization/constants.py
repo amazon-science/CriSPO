@@ -1,0 +1,6 @@
+# Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+# SPDX-License-Identifier: CC-BY-NC-4.0
+
+ARTICLE_PLACEHOLDER = "INSERT_INPUT_HERE"
+EXAMPLES_PLACEHOLDER = "INSERT_EXAMPLES_HERE"
+DRAFT_PLACEHOLDER = "INSERT_DRAFT_HERE"
