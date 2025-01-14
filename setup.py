@@ -19,7 +19,7 @@ METRICS = [
 setup(
     name="CriSPO",
     version="0.0.0",
-    description="Auto Prompting",
+    description="CriSPO: Multi-Aspect Critique-Suggestion-guided Automatic Prompt Optimization for Text Generation",
     long_description=long_description,
     long_description_content_type="text/markdown",
     packages=find_packages(exclude=["docs", "tests*", "experiments"]),
